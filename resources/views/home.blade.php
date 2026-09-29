@@ -7,6 +7,7 @@
             <div>
             <h1 class="cars-title text-3xl mb-4">Welcome to Chirper!</h1>
             <p>This is a brand new Laravel APP. Let's make it chirp</p>
+                <p>Now this is live on the internet!</p>
             </div>
         </div>
     </div>
